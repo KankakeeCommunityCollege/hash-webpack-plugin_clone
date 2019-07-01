@@ -1,5 +1,5 @@
 {
-  "name": "hash-webpack-plugin",
+  "name": "hash-webpack-plugin_clone",
   "version": "0.0.5",
   "description": "Clone of Xpepermint's hash manifest file writer plugin for Webpack.",
   "main": "index.js",
